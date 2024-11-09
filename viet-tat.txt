@@ -1,0 +1,107 @@
+5* - 5 sao (đánh giá 5 sao)
+9/10 - 9 trên 10 (đánh giá tốt)
+99k - 99 nghìn (giá sản phẩm)
+acc - account (tài khoản)
+ae - anh em
+app - application (ứng dụng)
+asap - càng sớm càng tốt
+av - avatar (ảnh đại diện)
+bb - bye bye (tạm biệt)
+bf - bạn bè
+sp - sản phẩm
+dc - địa chỉ
+đc - địa chỉ
+bntt - bình thường thôi
+bpk - bọc phá kính
+bsi - bảo hành sản phẩm
+btb - bình thường bạn
+buôn sỉ - buôn bán số lượng lớn
+c/e - comment/edit
+cb - cơ bản
+cccm - các cụ, các mợ (diễn đàn)
+chkm - chất không mẹ
+ck - chuyển khoản
+clgt - cái lồn gì thế
+cmnr - chuẩn mẹ nó rồi
+cmt - comment
+cocc - con ông cháu cha
+csgt - cảnh sát giao thông
+ct - coupon (phiếu giảm giá)
+ctkm - chương trình khuyến mãi
+ctv - cộng tác viên
+cu - cũ
+cv - công việc
+dk - điều kiện
+dt - điện thoại
+dv - dịch vụ
+ebay - một trang thương mại điện tử
+ev - em vê
+f - fail (thất bại)
+fb - facebook
+ff - free fire
+ga - giá
+gb - game bắn súng
+gg - google
+gm - game
+gto - giá tốt
+h - hàng
+hk - không
+hkbh - hàng không bảo hành
+hn - hà nội
+hr - hàng rẻ
+hs - hàng giả
+ht - hàng thật
+ib - inbox (tin nhắn)
+kg - không giá
+km - khuyến mãi
+l - lời
+lb - lời bình
+lq - liên quan
+m - mẹ
+mmo - kiếm tiền online
+mn - mọi người
+mua sắm - mua sắm
+n - nếu
+nb - nhận bài
+nbd - người bạn đời
+nh - nhà hàng
+nn - ngủ ngon
+npt - người chơi trực tuyến
+ns - nói chuyện
+nt - nhắn tin
+ntn - như thế nào
+ny - người yêu
+omg - oh my god (ôi trời ơi)
+onl - online
+ord - đặt hàng
+oz - ounces (đơn vị đo)
+p/s - postscript (tái bút)
+ph - phù hợp
+pm - private message (tin nhắn riêng)
+pt - sản phẩm tốt
+qt - quản trị
+rq - yêu cầu
+sg - sài gòn
+siêu phẩm - sản phẩm đặc biệt
+sdt - số điện thoại
+sml - sấp mặt lồn
+stt - status (trạng thái)
+tg - thời gian
+tn - tin nhắn
+tk - tài khoản
+tt - thông tin
+ttt - thông tin thêm
+uk - ukraine
+v - vãi
+vdb - vị trí đẹp
+vn - việt nam
+vp - văn phòng
+vvc - vấn đề cần giải quyết
+vv - vâng vâng
+wtf - what the fuck (cái gì vậy)
+xd - xinh đẹp
+xnl - rất nhiều
+xt - xét tặng
+yd - yên tâm
+yêu cầu - yêu cầu
+zz - ngủ
